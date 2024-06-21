@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M.\u015EAH\u0130N\\Source\\Repos\\All of Lineer Data Structure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D1CAB2-3B41-4731-887F-017AD4D3DC3A}|Stack\\Stack.csproj|c:\\users\\m.\u015Fah\u0130n\\source\\repos\\all of lineer data structure\\stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D1CAB2-3B41-4731-887F-017AD4D3DC3A}|Stack\\Stack.csproj|solutionrelative:stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB6F508-B6C1-4483-99F1-9375D53E414F}|Queue\\Queue.csproj|C:\\Users\\M.\u015EAH\u0130N\\Source\\Repos\\All of Lineer Data Structure\\queue\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB6F508-B6C1-4483-99F1-9375D53E414F}|Queue\\Queue.csproj|solutionrelative:queue\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050E6E35-CB56-477F-A4F8-867B818BA1A2}|LinkedList\\LinkedList.csproj|C:\\Users\\M.\u015EAH\u0130N\\Source\\Repos\\All of Lineer Data Structure\\linkedlist\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050E6E35-CB56-477F-A4F8-867B818BA1A2}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1340E66-2C2B-48B9-850A-EA064AE9006F}|Array\\Array.csproj|C:\\Users\\M.\u015EAH\u0130N\\Source\\Repos\\All of Lineer Data Structure\\array\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1340E66-2C2B-48B9-850A-EA064AE9006F}|Array\\Array.csproj|solutionrelative:array\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\M.\u015EAH\u0130N\\Source\\Repos\\All of Lineer Data Structure\\LinkedList\\LinkedList.cs",
+              "RelativeDocumentMoniker": "LinkedList\\LinkedList.cs",
+              "ToolTip": "C:\\Users\\M.\u015EAH\u0130N\\Source\\Repos\\All of Lineer Data Structure\\LinkedList\\LinkedList.cs",
+              "RelativeToolTip": "LinkedList\\LinkedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:31:39.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\Users\\M.\u015EAH\u0130N\\Source\\Repos\\All of Lineer Data Structure\\Queue\\Queue.cs",
+              "RelativeDocumentMoniker": "Queue\\Queue.cs",
+              "ToolTip": "C:\\Users\\M.\u015EAH\u0130N\\Source\\Repos\\All of Lineer Data Structure\\Queue\\Queue.cs",
+              "RelativeToolTip": "Queue\\Queue.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCMAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:16:00.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Array.cs",
+              "DocumentMoniker": "C:\\Users\\M.\u015EAH\u0130N\\Source\\Repos\\All of Lineer Data Structure\\Array\\Array.cs",
+              "RelativeDocumentMoniker": "Array\\Array.cs",
+              "ToolTip": "C:\\Users\\M.\u015EAH\u0130N\\Source\\Repos\\All of Lineer Data Structure\\Array\\Array.cs",
+              "RelativeToolTip": "Array\\Array.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:11:36.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\M.\u015EAH\u0130N\\Source\\Repos\\All of Lineer Data Structure\\Stack\\Stack.cs",
+              "RelativeDocumentMoniker": "Stack\\Stack.cs",
+              "ToolTip": "C:\\Users\\M.\u015EAH\u0130N\\Source\\Repos\\All of Lineer Data Structure\\Stack\\Stack.cs",
+              "RelativeToolTip": "Stack\\Stack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:08:08.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

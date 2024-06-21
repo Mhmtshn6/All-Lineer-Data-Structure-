@@ -1,0 +1,7 @@
+C:\Users\M.ŞAHİN\Source\Repos\All of Lineer Data Structure\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\M.ŞAHİN\Source\Repos\All of Lineer Data Structure\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\M.ŞAHİN\Source\Repos\All of Lineer Data Structure\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\M.ŞAHİN\Source\Repos\All of Lineer Data Structure\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+C:\Users\M.ŞAHİN\Source\Repos\All of Lineer Data Structure\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\M.ŞAHİN\Source\Repos\All of Lineer Data Structure\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\M.ŞAHİN\Source\Repos\All of Lineer Data Structure\LinkedList\obj\Debug\LinkedList.pdb

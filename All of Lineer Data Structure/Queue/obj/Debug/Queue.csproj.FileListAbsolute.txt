@@ -1,0 +1,7 @@
+C:\Users\M.ŞAHİN\Source\Repos\All of Lineer Data Structure\Queue\bin\Debug\Queue.exe.config
+C:\Users\M.ŞAHİN\Source\Repos\All of Lineer Data Structure\Queue\bin\Debug\Queue.exe
+C:\Users\M.ŞAHİN\Source\Repos\All of Lineer Data Structure\Queue\bin\Debug\Queue.pdb
+C:\Users\M.ŞAHİN\Source\Repos\All of Lineer Data Structure\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+C:\Users\M.ŞAHİN\Source\Repos\All of Lineer Data Structure\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\M.ŞAHİN\Source\Repos\All of Lineer Data Structure\Queue\obj\Debug\Queue.exe
+C:\Users\M.ŞAHİN\Source\Repos\All of Lineer Data Structure\Queue\obj\Debug\Queue.pdb
